@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "gerrymander",
+    "slug": "gerrymander",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "gerrymander"
+}
