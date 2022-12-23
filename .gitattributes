@@ -1,1 +1,3 @@
 *.pbxproj -text
+android/** linguist-detectable=false
+ios/** linguist-detectable=false
